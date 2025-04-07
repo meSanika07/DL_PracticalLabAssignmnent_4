@@ -83,7 +83,7 @@ NLP enables machines to understand and interpret human language. It involves:
 
 | Logistic Regression | Naive Bayes |
 |---------------------|-------------|
-| ![Logistic CM](https://github.com/user-attachments/assets/13c0a41d-98a5-4a3b-ac0c-ef60cfe05a3d)| ![Naive Bayes CM](https://github.com/user-attachments/assets/870688c0-2044-4950-9375-74c580e8f0490|
+| ![Logistic CM](https://github.com/user-attachments/assets/13c0a41d-98a5-4a3b-ac0c-ef60cfe05a3d)|(https://github.com/user-attachments/assets/870688c0-2044-4950-9375-74c580e8f0490|
 
 | Model Comparison |
 |------------------|
