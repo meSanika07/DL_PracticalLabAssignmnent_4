@@ -1,4 +1,4 @@
-# 📝 NLP Text Classification with Logistic Regression & Naive Bayes
+# 📝 Lab Assignment No. 4- NLP Preprocessing And Text Classification
 
 ## 📚 Course Information
 
@@ -10,7 +10,15 @@
 
 ## 🎯 Objective
 
-To implement and compare NLP-based text classification techniques using Logistic Regression and Naive Bayes. The assignment focuses on preprocessing textual data, transforming it into numerical form, and evaluating model performance.
+The objective of this assignment is to implement NLP preprocessing techniques and build a text classification model using machine learning techniques.
+
+---
+
+## 🎯 Learning Outcomes 
+- Understand and apply NLP preprocessing techniques such as tokenization, stopword removal, stemming, and lemmatization.
+- Implement text vectorization techniques such as TF-IDF and CountVectorizer.
+- Develop a text classification model using a machine learning algorithm.
+- Evaluate the performance of the model using suitable metrics.
 
 ---
 
@@ -75,14 +83,11 @@ NLP enables machines to understand and interpret human language. It involves:
 
 | Logistic Regression | Naive Bayes |
 |---------------------|-------------|
-| ![Logistic CM](![image](https://github.com/user-attachments/assets/13c0a41d-98a5-4a3b-ac0c-ef60cfe05a3d)
-) | ![Naive Bayes CM](![image](https://github.com/user-attachments/assets/870688c0-2044-4950-9375-74c580e8f049)
-) |
+| ![Logistic CM](![image](https://github.com/user-attachments/assets/13c0a41d-98a5-4a3b-ac0c-ef60cfe05a3d)| ![Naive Bayes CM](![image](https://github.com/user-attachments/assets/870688c0-2044-4950-9375-74c580e8f0490|
 
 | Model Comparison |
 |------------------|
-| ![Comparison Chart](![image](https://github.com/user-attachments/assets/1c5f738b-7052-4eff-ad8f-fc31315b1da9)
-) |
+| ![Comparison Chart](![image](https://github.com/user-attachments/assets/1c5f738b-7052-4eff-ad8f-fc31315b1da9)|
 
 ---
 
