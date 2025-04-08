@@ -118,6 +118,6 @@ NLP enables machines to understand and interpret human language. It involves:
 ├── ag_news/
 │   ├── train.csv
 │   └── test.csv
-├── NLP_Text_Classification_SanikaKundekar.ipynb
+├── NLP_Lab_Assignmnent_4 (1).ipynb
 ├── README.md
 └── Output Screenshots/
